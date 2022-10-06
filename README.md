@@ -1,2 +1,2 @@
 # Laba2
-Daniil and Ivan
+Daniil and Ivan working on this Laboratory.
